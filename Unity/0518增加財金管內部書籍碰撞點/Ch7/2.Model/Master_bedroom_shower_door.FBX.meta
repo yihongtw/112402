@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 5f1dec60788b4474ba500041b0bf0892
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Box03
+  - first:
+      43: 4300002
+    second: Box04
+  - first:
+      43: 4300004
+    second: Box05
+  - first:
+      43: 4300006
+    second: Box06
+  - first:
+      43: 4300008
+    second: Box07
+  - first:
+      43: 4300010
+    second: Box08
+  - first:
+      43: 4300012
+    second: Box10
+  - first:
+      43: 4300014
+    second: Box11
+  - first:
+      43: 4300016
+    second: Box12
+  - first:
+      43: 4300018
+    second: Cylinder01
+  - first:
+      43: 4300020
+    second: Cylinder03
+  - first:
+      43: 4300022
+    second: Cylinder04
+  - first:
+      43: 4300024
+    second: Cylinder05
+  - first:
+      43: 4300026
+    second: Cylinder12
+  - first:
+      43: 4300028
+    second: Cylinder13
+  - first:
+      43: 4300030
+    second: Cylinder14
+  - first:
+      43: 4300032
+    second: Cylinder15
+  - first:
+      43: 4300034
+    second: Cylinder16
+  - first:
+      43: 4300036
+    second: Sphere22
+  - first:
+      43: 4300038
+    second: Torus02
+  - first:
+      43: 4300040
+    second: Torus06
+  - first:
+      43: 4300042
+    second: Loft01
+  - first:
+      43: 4300044
+    second: Cylinder17
+  - first:
+      43: 4300046
+    second: Rectangle02
+  - first:
+      43: 4300048
+    second: Rectangle04
+  - first:
+      43: 4300050
+    second: Torus03
+  - first:
+      43: 4300052
+    second: Sphere01
+  - first:
+      43: 4300054
+    second: Sphere02
+  - first:
+      43: 4300056
+    second: Sphere03
+  - first:
+      43: 4300058
+    second: Sphere04
+  - first:
+      43: 4300060
+    second: Sphere05
+  - first:
+      43: 4300062
+    second: Sphere06
+  - first:
+      43: 4300064
+    second: Sphere07
+  - first:
+      43: 4300066
+    second: Sphere08
+  - first:
+      43: 4300068
+    second: Plane01
+  - first:
+      43: 4300070
+    second: Torus01
+  - first:
+      43: 4300072
+    second: Sphere09
+  - first:
+      43: 4300074
+    second: Sphere10
+  - first:
+      43: 4300076
+    second: Box15
+  - first:
+      43: 4300078
+    second: Box16
+  - first:
+      43: 4300080
+    second: Sphere11
+  - first:
+      43: 4300082
+    second: Torus04
+  - first:
+      43: 4300084
+    second: Box14
+  - first:
+      43: 4300086
+    second: Cylinder02
+  - first:
+      43: 4300088
+    second: Cylinder11
+  - first:
+      43: 4300090
+    second: Sphere21
+  - first:
+      43: 4300092
+    second: Sphere20
+  - first:
+      43: 4300094
+    second: Cylinder10
+  - first:
+      43: 4300096
+    second: Cylinder09
+  - first:
+      43: 4300098
+    second: Sphere19
+  - first:
+      43: 4300100
+    second: Sphere16
+  - first:
+      43: 4300102
+    second: Cylinder06
+  - first:
+      43: 4300104
+    second: Sphere17
+  - first:
+      43: 4300106
+    second: Cylinder07
+  - first:
+      43: 4300108
+    second: Sphere18
+  - first:
+      43: 4300110
+    second: Cylinder08
+  - first:
+      43: 4300112
+    second: Box017
+  - first:
+      43: 4300114
+    second: Cone001
+  - first:
+      43: 4300116
+    second: Box018
+  - first:
+      43: 4300118
+    second: Rectangle03
+  - first:
+      43: 4300120
+    second: Box019
+  - first:
+      43: 4300122
+    second: Cylinder018
+  - first:
+      43: 4300124
+    second: Rectangle01
+  - first:
+      43: 4300126
+    second: Master_bedroom_shower_door
+  - first:
+      43: 4300128
+    second: Head
+  - first:
+      43: 4300130
+    second: Shower room door
+  - first:
+      74: -5252816984213320552
+    second: idle
+  - first:
+      74: 4873981333490874974
+    second: open
+  - first:
+      74: 5826557733320977955
+    second: down
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower room door(Black)
+    second: {fileID: 2100000, guid: b52f0e731e0050942a87eb21a69ea65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower room door(Glass)
+    second: {fileID: 2100000, guid: 3ab4681ef329389418bdce316cfb2c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower room door(Meatl)
+    second: {fileID: 2100000, guid: c4acd1f6e7fda4f47984dda90469c7e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower room door(Silver metal)
+    second: {fileID: 2100000, guid: 09a31be9e4a8d1c499923201fc2c0ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower room door(White marble)
+    second: {fileID: 2100000, guid: bf56942199b685e4194b81a78c0bb35b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      internalID: -5252816984213320552
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open
+      takeName: 
+      internalID: 4873981333490874974
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: down
+      takeName: 
+      internalID: 5826557733320977955
+      firstFrame: 46
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

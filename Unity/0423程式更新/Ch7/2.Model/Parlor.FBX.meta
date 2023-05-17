@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: d66598bf8f2314146b460a4c71028594
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Three Sofa
+  - first:
+      43: 4300002
+    second: Pillow03
+  - first:
+      43: 4300004
+    second: Pillow05
+  - first:
+      43: 4300006
+    second: Armchair
+  - first:
+      43: 4300008
+    second: Pillow02
+  - first:
+      43: 4300010
+    second: Tea table
+  - first:
+      43: 4300012
+    second: Pillow
+  - first:
+      43: 4300014
+    second: Pillow04
+  - first:
+      43: 4300016
+    second: Pillow06
+  - first:
+      43: 4300018
+    second: Pillow07
+  - first:
+      43: 4300020
+    second: Pillow11
+  - first:
+      43: 4300022
+    second: Pillow12
+  - first:
+      43: 4300024
+    second: Pillow09
+  - first:
+      43: 4300026
+    second: Pillow08
+  - first:
+      43: 4300028
+    second: Pillow10
+  - first:
+      43: 4300030
+    second: Armchair02
+  - first:
+      43: 4300032
+    second: Three Sofa02
+  - first:
+      43: 4300034
+    second: Bookcase
+  - first:
+      43: 4300036
+    second: Living room lights
+  - first:
+      43: 4300038
+    second: Wine cooler
+  - first:
+      43: 4300040
+    second: Wine cooler02
+  - first:
+      43: 4300042
+    second: Clock
+  - first:
+      43: 4300044
+    second: Coffee table
+  - first:
+      43: 4300046
+    second: Remote Control
+  - first:
+      43: 4300048
+    second: Apple Laptop
+  - first:
+      43: 4300050
+    second: lLiving room desk set
+  - first:
+      43: 4300052
+    second: lLiving room desk set02
+  - first:
+      43: 4300054
+    second: lLiving room desk set03
+  - first:
+      43: 4300056
+    second: lLiving room desk set04
+  - first:
+      43: 4300058
+    second: Living room wall
+  - first:
+      43: 4300060
+    second: Living room wall02
+  - first:
+      43: 4300062
+    second: Living room wall03
+  - first:
+      43: 4300064
+    second: Fireplace
+  - first:
+      43: 4300066
+    second: Shoe rack
+  - first:
+      43: 4300068
+    second: Sony TV audio portfolio_2
+  - first:
+      43: 4300070
+    second: Sony TV audio portfolio_3
+  - first:
+      43: 4300072
+    second: Sony TV audio portfolio_4
+  - first:
+      43: 4300074
+    second: Sony TV audio portfolio_6
+  - first:
+      43: 4300076
+    second: Sony TV audio portfolio_1
+  - first:
+      43: 4300078
+    second: Sony TV audio portfolio_3-1
+  - first:
+      43: 4300080
+    second: Sony TV audio portfolio_5
+  - first:
+      43: 4300082
+    second: Sony TV audio portfolio_2-1
+  - first:
+      43: 4300084
+    second: Sony TV audio portfolio_007
+  - first:
+      43: 4300086
+    second: Sony TV
+  - first:
+      43: 4300088
+    second: mov
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple Laptop
+    second: {fileID: 2100000, guid: 5fb16c7708daa8d41813a3744bd508e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Bookcase01)
+    second: {fileID: 2100000, guid: 244fe0cbee2715a44ad8f452e88efc0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Bookcase02)
+    second: {fileID: 2100000, guid: 5beb8e05827d810408fdf90f167bdaae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Pattern)
+    second: {fileID: 2100000, guid: e84b89dd7d03d85449a0fec8a2fc8a46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(White)
+    second: {fileID: 2100000, guid: 69a0a109c6838234090f881a0cfe1ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(White)-(Page-n)
+    second: {fileID: 2100000, guid: d13f23713cdd4fd40b6e99b2a7356b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Wood07)
+    second: {fileID: 2100000, guid: 60f69d48693b7104d8420534f62b4377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase_(White)
+    second: {fileID: 2100000, guid: 481b6d314dbaba046b076cc69e132b51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock(Clock)
+    second: {fileID: 2100000, guid: adfb8df08d255c34da2beb441e32c863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock(White)
+    second: {fileID: 2100000, guid: 95271be00245ccd44b8be9fcb8472f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee table(Wood03)
+    second: {fileID: 2100000, guid: 68f5f04ee1ef8054497b2f52379cd935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplace(Fireplace)
+    second: {fileID: 2100000, guid: f3ca3cb41007558489ce90c11e71c430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room lights01
+    second: {fileID: 2100000, guid: 483d7aea7dcc7dd469827083b43d2f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room lights02
+    second: {fileID: 2100000, guid: 5717371ca5ddf3e4fb9774515c3d77fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Remote Control(Black)
+    second: {fileID: 2100000, guid: 8d47cf7ef59fc97409befd1eec32718e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Remote Control(Remote Control)
+    second: {fileID: 2100000, guid: 3ec2cb4023810f746acb9de1a7b00fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe rack(Silver metal)
+    second: {fileID: 2100000, guid: 4b1dc29121ca59845abc6a6fed9ae01a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric01)
+    second: {fileID: 2100000, guid: b5a713569e336224896fd3d200b3a500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric03)
+    second: {fileID: 2100000, guid: 3e5834cdc390e5541a114bcd1c6c1234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric05)
+    second: {fileID: 2100000, guid: 8a783bee93cac4041b20040388188519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric06)
+    second: {fileID: 2100000, guid: 8d711f5b334005d48a18ae9b5363c50b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Gold Metal)-(Sofa combination02-n)
+    second: {fileID: 2100000, guid: 59e5911d86eec37469c8422d83e5f3a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Leather)
+    second: {fileID: 2100000, guid: 9dcd66c9885e3a5499780d9e5a2d759c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood05)
+    second: {fileID: 2100000, guid: ac337872ae1649f4d9c8b3a386b4b485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood08)
+    second: {fileID: 2100000, guid: a03ee096e00921c438e60eb183095346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood08)-(Sofa combination01-n)
+    second: {fileID: 2100000, guid: 6e2a20220f8d3c047bfd0254bd9fbe40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Camera)
+    second: {fileID: 2100000, guid: f7539099751ed514aba58f5857261af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Silver metal)
+    second: {fileID: 2100000, guid: 531363873db6f9346b857a1f51a0f7ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio01)
+    second: {fileID: 2100000, guid: a3ad1553a806b5846b937740582d40f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio02)
+    second: {fileID: 2100000, guid: 048163a4be97f1d458e17c5639087fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio06)
+    second: {fileID: 2100000, guid: a9bfa30a55bcb114995859a13fafd456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio09)
+    second: {fileID: 2100000, guid: a417b51a4df22e24392e5c2ab9342dc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio11)
+    second: {fileID: 2100000, guid: d6f010a431894ce4eba91c8a236d4002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Wood04)
+    second: {fileID: 2100000, guid: 125c3df4069b2f44c923cd78fe01206d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Wood05)
+    second: {fileID: 2100000, guid: bebadea517242a14ba4b38c27a13a935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(mov)
+    second: {fileID: 2100000, guid: 215fa35a46c71144988002f5bc66a1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wine cooler(Silver metal)
+    second: {fileID: 2100000, guid: a55b270e20f8c5f42a6d35e4a80cb486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wine cooler(Wood06)
+    second: {fileID: 2100000, guid: 7ee4e4060dff55b4d9c6de66ee089cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wine cooler_(Silver metal)
+    second: {fileID: 2100000, guid: 0f82b7d0011b588428897672acb0bcb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Book cover01)
+    second: {fileID: 2100000, guid: 3f65c73387d7479459c8ef3f76945148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Fabric02)
+    second: {fileID: 2100000, guid: c6ef660f4a18eb2459c08891d678f94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Fabric04)
+    second: {fileID: 2100000, guid: 95908e387641d544a8516344d482011d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Gold Metal)
+    second: {fileID: 2100000, guid: f402541212e477e40b28d2fb85e11530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Side of the book01)
+    second: {fileID: 2100000, guid: f2fb3224b8843fd42bc01e568a88d8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(The back of the book01)
+    second: {fileID: 2100000, guid: ded73acbf039ded4b86463c68e399674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Video pedestal)
+    second: {fileID: 2100000, guid: e47415b0cf4ec3d41a0d06f7bd9366c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(White)-(Page-n)
+    second: {fileID: 2100000, guid: 2915a070cb511a748ab6f88904c3f0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Wood05)
+    second: {fileID: 2100000, guid: 54cc5a897fefafa4cb750ddba81eb815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set_(Fabric02)
+    second: {fileID: 2100000, guid: c3cc04d43a346c14382add540aec609b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set_(Wood05)
+    second: {fileID: 2100000, guid: 057f999ac9cc4b944b1549e173ac363d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

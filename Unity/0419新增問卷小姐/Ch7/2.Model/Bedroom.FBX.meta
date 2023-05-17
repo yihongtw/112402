@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 25cabbdbeb543104b943055567d6ea28
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Chandelier
+  - first:
+      43: 4300002
+    second: Bedroom desk lamp
+  - first:
+      43: 4300004
+    second: Foreign book
+  - first:
+      43: 4300006
+    second: Discussion tables
+  - first:
+      43: 4300008
+    second: Discussion chairs
+  - first:
+      43: 4300010
+    second: Discussion chairs02
+  - first:
+      43: 4300012
+    second: Discussion chairs03
+  - first:
+      43: 4300014
+    second: Discussion chairs04
+  - first:
+      43: 4300016
+    second: Books for women
+  - first:
+      43: 4300018
+    second: Bedroom furniture book
+  - first:
+      43: 4300020
+    second: Bedroom desk
+  - first:
+      43: 4300022
+    second: Bedroom bedside cabinet02
+  - first:
+      43: 4300024
+    second: Bedroom bedside cabinet
+  - first:
+      43: 4300026
+    second: Bedroom bed
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed(Bedroom bed)-(Bedroom bed-n)
+    second: {fileID: 2100000, guid: e2e5187e91a825440b37eb344be9825e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed(White)
+    second: {fileID: 2100000, guid: 394b573f4a5b9084bbdd14012ef49893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed_(Bedroom bed)-(Bedroom bed-n)
+    second: {fileID: 2100000, guid: 5679f6249cd707b41afa8bcb8d4a26c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed_(Meatl)
+    second: {fileID: 2100000, guid: 799312e312c1da444adbcce42a4a6145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed_(White)
+    second: {fileID: 2100000, guid: c29ee96de13e1d340ac8280a2141ad24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bed__(Bedroom bed)-(Bedroom bed-n)
+    second: {fileID: 2100000, guid: 8b56397d41b541549b8f2f0556744f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bedside cabinet(Meatl)
+    second: {fileID: 2100000, guid: 8752f43d93c83fc4f85003dc219b58ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bedside cabinet(White)
+    second: {fileID: 2100000, guid: 2793e802c7d7adc4e9f75cd505d2126d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom bedside cabinet_(White)
+    second: {fileID: 2100000, guid: 7187b2d2a5a496049afc0e1b52e0b08c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom desk lamp(Fabric02)
+    second: {fileID: 2100000, guid: a91bc47268dbe834f8b06aaf5d90a20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom desk lamp(Gold Metal)
+    second: {fileID: 2100000, guid: de92fcb2b5445da408d9aec67cfc05a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom desk lamp_(Fabric02)
+    second: {fileID: 2100000, guid: 9df81114ba449c24b9c5a6f68b28a616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom desk(White marble)
+    second: {fileID: 2100000, guid: a11b37a8579ed6749b8ec92844a787f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom desk(Wood05)
+    second: {fileID: 2100000, guid: 6bf995be46ed7c44aa2b53744f85a0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom furniture book(Fabric08)
+    second: {fileID: 2100000, guid: 30627cbd3a00d0045806450f8c05d4ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom furniture book(Wood05)
+    second: {fileID: 2100000, guid: 1847c0ceec69b8f41a324004ad3e80d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books for women(Book cover02)
+    second: {fileID: 2100000, guid: 7eedc963d991a0943b41168937fa3528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books for women(Side of the book02)
+    second: {fileID: 2100000, guid: 636d2205dac26b646ac6e8f24a3dae77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books for women(The back of the book02)
+    second: {fileID: 2100000, guid: 0e43a9cfc002afc4a8551fb129836f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books for women(White)-(Page-n)
+    second: {fileID: 2100000, guid: f83e53c07b11fbe41a19db6ce8538d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier(Meatl)
+    second: {fileID: 2100000, guid: ac394dc14bc323e46ad01170cfc421a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier(White)
+    second: {fileID: 2100000, guid: 737e7889f393f164dabca468a6a58fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier_(White)
+    second: {fileID: 2100000, guid: a133070365d95b94e80cb2812af0e671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Discussion chairs(Fabric08)
+    second: {fileID: 2100000, guid: b6359309c6365d74c8e593352176fdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Discussion chairs(Wood04)
+    second: {fileID: 2100000, guid: 0902e720f5c193b459666d652c0ed4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Discussion tables(Meatl)
+    second: {fileID: 2100000, guid: 877653f604ba93c49aa546e1c5a8c7b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Discussion tables(Wood04)
+    second: {fileID: 2100000, guid: 068bb8c06c8ef51499bbbdd8a10e7d18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foreign book(Book cover01)
+    second: {fileID: 2100000, guid: 985145db00c887f4da6900756934ce15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foreign book(Side of the book01)
+    second: {fileID: 2100000, guid: fd262f7b2ff73c44fac29c868d2f4b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foreign book(The back of the book01)
+    second: {fileID: 2100000, guid: f471c201e176b4c48a344c2720b52ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foreign book(White)-(Page-n)
+    second: {fileID: 2100000, guid: b98dc576e1dfc954fa117e60ab5ab2b0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

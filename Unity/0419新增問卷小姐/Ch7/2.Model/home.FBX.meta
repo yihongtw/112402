@@ -1,0 +1,2034 @@
+fileFormatVersion: 2
+guid: 3f50a0fdda56af342b9662cd1d04cf57
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 1 Balcony floor
+  - first:
+      1: 100002
+    second: 1 Outerior walls
+  - first:
+      1: 100004
+    second: 2 Restaurant ceiling
+  - first:
+      1: 100006
+    second: 2 Restaurant floor
+  - first:
+      1: 100008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      1: 100010
+    second: 2 Restaurant walls
+  - first:
+      1: 100012
+    second: 3 Cupboard
+  - first:
+      1: 100014
+    second: 3 Kitchen ceiling
+  - first:
+      1: 100016
+    second: 3 Kitchen floor
+  - first:
+      1: 100018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      1: 100020
+    second: 3 Kitchen window
+  - first:
+      1: 100022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      1: 100024
+    second: 4 Air conditioner
+  - first:
+      1: 100026
+    second: 4 Door
+  - first:
+      1: 100028
+    second: 4 Living room carpet
+  - first:
+      1: 100030
+    second: 4 Living room ceiling
+  - first:
+      1: 100032
+    second: 4 Living room wall
+  - first:
+      1: 100034
+    second: 4 Living room Wall lamp01
+  - first:
+      1: 100036
+    second: 4 Living room Wall lamp02
+  - first:
+      1: 100038
+    second: 4 Living room Wall lamp03
+  - first:
+      1: 100040
+    second: 4 The living room floor
+  - first:
+      1: 100042
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      1: 100044
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      1: 100046
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      1: 100048
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      1: 100050
+    second: 4 Video pedestal
+  - first:
+      1: 100052
+    second: 4 Windows01
+  - first:
+      1: 100054
+    second: 4 Windows02
+  - first:
+      1: 100056
+    second: 5  Mirror
+  - first:
+      1: 100058
+    second: 5 Bathroom Lights
+  - first:
+      1: 100060
+    second: 5 Hall bathroom ceiling
+  - first:
+      1: 100062
+    second: 5 Hall bathroom floor
+  - first:
+      1: 100064
+    second: 5 Hall toilet wall
+  - first:
+      1: 100066
+    second: 5 Toilet03
+  - first:
+      1: 100068
+    second: 5 Towel rack03
+  - first:
+      1: 100070
+    second: 5 Washbasin
+  - first:
+      1: 100072
+    second: 6 Bathroom Lights02
+  - first:
+      1: 100074
+    second: 6 Bathtub02
+  - first:
+      1: 100076
+    second: 6 Bedroom bathroom floor
+  - first:
+      1: 100078
+    second: 6 Bedroom mirror
+  - first:
+      1: 100080
+    second: 6 Bedroom washbasin
+  - first:
+      1: 100082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      1: 100084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      1: 100086
+    second: 6 Toilet02
+  - first:
+      1: 100088
+    second: 6 Towel rack02
+  - first:
+      1: 100090
+    second: 6 Towel rack02 1
+  - first:
+      1: 100092
+    second: 7 Bathroom Lights03
+  - first:
+      1: 100094
+    second: 7 Bathroom windows
+  - first:
+      1: 100096
+    second: 7 Bathtub
+  - first:
+      1: 100098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      1: 100100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      1: 100102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      1: 100104
+    second: 7 Master bedroom mirror
+  - first:
+      1: 100106
+    second: 7 Master bedroom sink
+  - first:
+      1: 100108
+    second: 7 Toilet
+  - first:
+      1: 100110
+    second: 7 Towel rack
+  - first:
+      1: 100112
+    second: 7 Towel rack 1
+  - first:
+      1: 100114
+    second: 8 Air conditioner03
+  - first:
+      1: 100116
+    second: 8 Bedroom windows
+  - first:
+      1: 100118
+    second: 8 Bedroom windows02
+  - first:
+      1: 100120
+    second: 8 Floor master bedroom
+  - first:
+      1: 100122
+    second: 8 Master bedroom carpet
+  - first:
+      1: 100124
+    second: 8 Master bedroom ceiling
+  - first:
+      1: 100126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      1: 100128
+    second: 8 Master bedroom walls
+  - first:
+      1: 100130
+    second: 8 Old wardrobe03
+  - first:
+      1: 100132
+    second: 8 Old wardrobe04
+  - first:
+      1: 100134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      1: 100136
+    second: 9 Air conditioner02
+  - first:
+      1: 100138
+    second: 9 Bedroom carpet
+  - first:
+      1: 100140
+    second: 9 Bedroom ceiling
+  - first:
+      1: 100142
+    second: 9 Bedroom floor
+  - first:
+      1: 100144
+    second: 9 Bedroom wall
+  - first:
+      1: 100146
+    second: 9 Bedroom Wall lamp
+  - first:
+      1: 100148
+    second: 9 Bedroom windows door
+  - first:
+      1: 100150
+    second: 9 Old wardrobe01
+  - first:
+      1: 100152
+    second: 9 Old wardrobe02
+  - first:
+      1: 100154
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      1: 100156
+    second: Group001
+  - first:
+      1: 100158
+    second: Group002
+  - first:
+      1: 100160
+    second: Group003
+  - first:
+      1: 100162
+    second: Group004
+  - first:
+      1: 100164
+    second: Group005
+  - first:
+      1: 100166
+    second: Group006
+  - first:
+      1: 100168
+    second: Group007
+  - first:
+      1: 100170
+    second: Group008
+  - first:
+      1: 100172
+    second: Group009
+  - first:
+      1: 100174
+    second: //RootNode
+  - first:
+      4: 400000
+    second: 1 Balcony floor
+  - first:
+      4: 400002
+    second: 1 Outerior walls
+  - first:
+      4: 400004
+    second: 2 Restaurant ceiling
+  - first:
+      4: 400006
+    second: 2 Restaurant floor
+  - first:
+      4: 400008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      4: 400010
+    second: 2 Restaurant walls
+  - first:
+      4: 400012
+    second: 3 Cupboard
+  - first:
+      4: 400014
+    second: 3 Kitchen ceiling
+  - first:
+      4: 400016
+    second: 3 Kitchen floor
+  - first:
+      4: 400018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      4: 400020
+    second: 3 Kitchen window
+  - first:
+      4: 400022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      4: 400024
+    second: 4 Air conditioner
+  - first:
+      4: 400026
+    second: 4 Door
+  - first:
+      4: 400028
+    second: 4 Living room carpet
+  - first:
+      4: 400030
+    second: 4 Living room ceiling
+  - first:
+      4: 400032
+    second: 4 Living room wall
+  - first:
+      4: 400034
+    second: 4 Living room Wall lamp01
+  - first:
+      4: 400036
+    second: 4 Living room Wall lamp02
+  - first:
+      4: 400038
+    second: 4 Living room Wall lamp03
+  - first:
+      4: 400040
+    second: 4 The living room floor
+  - first:
+      4: 400042
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      4: 400044
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      4: 400046
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      4: 400048
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      4: 400050
+    second: 4 Video pedestal
+  - first:
+      4: 400052
+    second: 4 Windows01
+  - first:
+      4: 400054
+    second: 4 Windows02
+  - first:
+      4: 400056
+    second: 5  Mirror
+  - first:
+      4: 400058
+    second: 5 Bathroom Lights
+  - first:
+      4: 400060
+    second: 5 Hall bathroom ceiling
+  - first:
+      4: 400062
+    second: 5 Hall bathroom floor
+  - first:
+      4: 400064
+    second: 5 Hall toilet wall
+  - first:
+      4: 400066
+    second: 5 Toilet03
+  - first:
+      4: 400068
+    second: 5 Towel rack03
+  - first:
+      4: 400070
+    second: 5 Washbasin
+  - first:
+      4: 400072
+    second: 6 Bathroom Lights02
+  - first:
+      4: 400074
+    second: 6 Bathtub02
+  - first:
+      4: 400076
+    second: 6 Bedroom bathroom floor
+  - first:
+      4: 400078
+    second: 6 Bedroom mirror
+  - first:
+      4: 400080
+    second: 6 Bedroom washbasin
+  - first:
+      4: 400082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      4: 400084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      4: 400086
+    second: 6 Toilet02
+  - first:
+      4: 400088
+    second: 6 Towel rack02
+  - first:
+      4: 400090
+    second: 6 Towel rack02 1
+  - first:
+      4: 400092
+    second: 7 Bathroom Lights03
+  - first:
+      4: 400094
+    second: 7 Bathroom windows
+  - first:
+      4: 400096
+    second: 7 Bathtub
+  - first:
+      4: 400098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      4: 400100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      4: 400102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      4: 400104
+    second: 7 Master bedroom mirror
+  - first:
+      4: 400106
+    second: 7 Master bedroom sink
+  - first:
+      4: 400108
+    second: 7 Toilet
+  - first:
+      4: 400110
+    second: 7 Towel rack
+  - first:
+      4: 400112
+    second: 7 Towel rack 1
+  - first:
+      4: 400114
+    second: 8 Air conditioner03
+  - first:
+      4: 400116
+    second: 8 Bedroom windows
+  - first:
+      4: 400118
+    second: 8 Bedroom windows02
+  - first:
+      4: 400120
+    second: 8 Floor master bedroom
+  - first:
+      4: 400122
+    second: 8 Master bedroom carpet
+  - first:
+      4: 400124
+    second: 8 Master bedroom ceiling
+  - first:
+      4: 400126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      4: 400128
+    second: 8 Master bedroom walls
+  - first:
+      4: 400130
+    second: 8 Old wardrobe03
+  - first:
+      4: 400132
+    second: 8 Old wardrobe04
+  - first:
+      4: 400134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      4: 400136
+    second: 9 Air conditioner02
+  - first:
+      4: 400138
+    second: 9 Bedroom carpet
+  - first:
+      4: 400140
+    second: 9 Bedroom ceiling
+  - first:
+      4: 400142
+    second: 9 Bedroom floor
+  - first:
+      4: 400144
+    second: 9 Bedroom wall
+  - first:
+      4: 400146
+    second: 9 Bedroom Wall lamp
+  - first:
+      4: 400148
+    second: 9 Bedroom windows door
+  - first:
+      4: 400150
+    second: 9 Old wardrobe01
+  - first:
+      4: 400152
+    second: 9 Old wardrobe02
+  - first:
+      4: 400154
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      4: 400156
+    second: Group001
+  - first:
+      4: 400158
+    second: Group002
+  - first:
+      4: 400160
+    second: Group003
+  - first:
+      4: 400162
+    second: Group004
+  - first:
+      4: 400164
+    second: Group005
+  - first:
+      4: 400166
+    second: Group006
+  - first:
+      4: 400168
+    second: Group007
+  - first:
+      4: 400170
+    second: Group008
+  - first:
+      4: 400172
+    second: Group009
+  - first:
+      4: 400174
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: 1 Balcony floor
+  - first:
+      23: 2300002
+    second: 1 Outerior walls
+  - first:
+      23: 2300004
+    second: 2 Restaurant ceiling
+  - first:
+      23: 2300006
+    second: 2 Restaurant floor
+  - first:
+      23: 2300008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      23: 2300010
+    second: 2 Restaurant walls
+  - first:
+      23: 2300012
+    second: 3 Cupboard
+  - first:
+      23: 2300014
+    second: 3 Kitchen ceiling
+  - first:
+      23: 2300016
+    second: 3 Kitchen floor
+  - first:
+      23: 2300018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      23: 2300020
+    second: 3 Kitchen window
+  - first:
+      23: 2300022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      23: 2300024
+    second: 4 Air conditioner
+  - first:
+      23: 2300026
+    second: 4 Door
+  - first:
+      23: 2300028
+    second: 4 Living room carpet
+  - first:
+      23: 2300030
+    second: 4 Living room ceiling
+  - first:
+      23: 2300032
+    second: 4 Living room wall
+  - first:
+      23: 2300034
+    second: 4 Living room Wall lamp01
+  - first:
+      23: 2300036
+    second: 4 Living room Wall lamp02
+  - first:
+      23: 2300038
+    second: 4 Living room Wall lamp03
+  - first:
+      23: 2300040
+    second: 4 The living room floor
+  - first:
+      23: 2300042
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      23: 2300044
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      23: 2300046
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      23: 2300048
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      23: 2300050
+    second: 4 Video pedestal
+  - first:
+      23: 2300052
+    second: 4 Windows01
+  - first:
+      23: 2300054
+    second: 4 Windows02
+  - first:
+      23: 2300056
+    second: 5  Mirror
+  - first:
+      23: 2300058
+    second: 5 Bathroom Lights
+  - first:
+      23: 2300060
+    second: 5 Hall bathroom ceiling
+  - first:
+      23: 2300062
+    second: 5 Hall bathroom floor
+  - first:
+      23: 2300064
+    second: 5 Hall toilet wall
+  - first:
+      23: 2300066
+    second: 5 Toilet03
+  - first:
+      23: 2300068
+    second: 5 Towel rack03
+  - first:
+      23: 2300070
+    second: 5 Washbasin
+  - first:
+      23: 2300072
+    second: 6 Bathroom Lights02
+  - first:
+      23: 2300074
+    second: 6 Bathtub02
+  - first:
+      23: 2300076
+    second: 6 Bedroom bathroom floor
+  - first:
+      23: 2300078
+    second: 6 Bedroom mirror
+  - first:
+      23: 2300080
+    second: 6 Bedroom washbasin
+  - first:
+      23: 2300082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      23: 2300084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      23: 2300086
+    second: 6 Toilet02
+  - first:
+      23: 2300088
+    second: 6 Towel rack02
+  - first:
+      23: 2300090
+    second: 6 Towel rack02 1
+  - first:
+      23: 2300092
+    second: 7 Bathroom Lights03
+  - first:
+      23: 2300094
+    second: 7 Bathroom windows
+  - first:
+      23: 2300096
+    second: 7 Bathtub
+  - first:
+      23: 2300098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      23: 2300100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      23: 2300102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      23: 2300104
+    second: 7 Master bedroom mirror
+  - first:
+      23: 2300106
+    second: 7 Master bedroom sink
+  - first:
+      23: 2300108
+    second: 7 Toilet
+  - first:
+      23: 2300110
+    second: 7 Towel rack
+  - first:
+      23: 2300112
+    second: 7 Towel rack 1
+  - first:
+      23: 2300114
+    second: 8 Air conditioner03
+  - first:
+      23: 2300116
+    second: 8 Bedroom windows
+  - first:
+      23: 2300118
+    second: 8 Bedroom windows02
+  - first:
+      23: 2300120
+    second: 8 Floor master bedroom
+  - first:
+      23: 2300122
+    second: 8 Master bedroom carpet
+  - first:
+      23: 2300124
+    second: 8 Master bedroom ceiling
+  - first:
+      23: 2300126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      23: 2300128
+    second: 8 Master bedroom walls
+  - first:
+      23: 2300130
+    second: 8 Old wardrobe03
+  - first:
+      23: 2300132
+    second: 8 Old wardrobe04
+  - first:
+      23: 2300134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      23: 2300136
+    second: 9 Air conditioner02
+  - first:
+      23: 2300138
+    second: 9 Bedroom carpet
+  - first:
+      23: 2300140
+    second: 9 Bedroom ceiling
+  - first:
+      23: 2300142
+    second: 9 Bedroom floor
+  - first:
+      23: 2300144
+    second: 9 Bedroom wall
+  - first:
+      23: 2300146
+    second: 9 Bedroom Wall lamp
+  - first:
+      23: 2300148
+    second: 9 Bedroom windows door
+  - first:
+      23: 2300150
+    second: 9 Old wardrobe01
+  - first:
+      23: 2300152
+    second: 9 Old wardrobe02
+  - first:
+      23: 2300154
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      33: 3300000
+    second: 1 Balcony floor
+  - first:
+      33: 3300002
+    second: 1 Outerior walls
+  - first:
+      33: 3300004
+    second: 2 Restaurant ceiling
+  - first:
+      33: 3300006
+    second: 2 Restaurant floor
+  - first:
+      33: 3300008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      33: 3300010
+    second: 2 Restaurant walls
+  - first:
+      33: 3300012
+    second: 3 Cupboard
+  - first:
+      33: 3300014
+    second: 3 Kitchen ceiling
+  - first:
+      33: 3300016
+    second: 3 Kitchen floor
+  - first:
+      33: 3300018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      33: 3300020
+    second: 3 Kitchen window
+  - first:
+      33: 3300022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      33: 3300024
+    second: 4 Air conditioner
+  - first:
+      33: 3300026
+    second: 4 Door
+  - first:
+      33: 3300028
+    second: 4 Living room carpet
+  - first:
+      33: 3300030
+    second: 4 Living room ceiling
+  - first:
+      33: 3300032
+    second: 4 Living room wall
+  - first:
+      33: 3300034
+    second: 4 Living room Wall lamp01
+  - first:
+      33: 3300036
+    second: 4 Living room Wall lamp02
+  - first:
+      33: 3300038
+    second: 4 Living room Wall lamp03
+  - first:
+      33: 3300040
+    second: 4 The living room floor
+  - first:
+      33: 3300042
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      33: 3300044
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      33: 3300046
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      33: 3300048
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      33: 3300050
+    second: 4 Video pedestal
+  - first:
+      33: 3300052
+    second: 4 Windows01
+  - first:
+      33: 3300054
+    second: 4 Windows02
+  - first:
+      33: 3300056
+    second: 5  Mirror
+  - first:
+      33: 3300058
+    second: 5 Bathroom Lights
+  - first:
+      33: 3300060
+    second: 5 Hall bathroom ceiling
+  - first:
+      33: 3300062
+    second: 5 Hall bathroom floor
+  - first:
+      33: 3300064
+    second: 5 Hall toilet wall
+  - first:
+      33: 3300066
+    second: 5 Toilet03
+  - first:
+      33: 3300068
+    second: 5 Towel rack03
+  - first:
+      33: 3300070
+    second: 5 Washbasin
+  - first:
+      33: 3300072
+    second: 6 Bathroom Lights02
+  - first:
+      33: 3300074
+    second: 6 Bathtub02
+  - first:
+      33: 3300076
+    second: 6 Bedroom bathroom floor
+  - first:
+      33: 3300078
+    second: 6 Bedroom mirror
+  - first:
+      33: 3300080
+    second: 6 Bedroom washbasin
+  - first:
+      33: 3300082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      33: 3300084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      33: 3300086
+    second: 6 Toilet02
+  - first:
+      33: 3300088
+    second: 6 Towel rack02
+  - first:
+      33: 3300090
+    second: 6 Towel rack02 1
+  - first:
+      33: 3300092
+    second: 7 Bathroom Lights03
+  - first:
+      33: 3300094
+    second: 7 Bathroom windows
+  - first:
+      33: 3300096
+    second: 7 Bathtub
+  - first:
+      33: 3300098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      33: 3300100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      33: 3300102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      33: 3300104
+    second: 7 Master bedroom mirror
+  - first:
+      33: 3300106
+    second: 7 Master bedroom sink
+  - first:
+      33: 3300108
+    second: 7 Toilet
+  - first:
+      33: 3300110
+    second: 7 Towel rack
+  - first:
+      33: 3300112
+    second: 7 Towel rack 1
+  - first:
+      33: 3300114
+    second: 8 Air conditioner03
+  - first:
+      33: 3300116
+    second: 8 Bedroom windows
+  - first:
+      33: 3300118
+    second: 8 Bedroom windows02
+  - first:
+      33: 3300120
+    second: 8 Floor master bedroom
+  - first:
+      33: 3300122
+    second: 8 Master bedroom carpet
+  - first:
+      33: 3300124
+    second: 8 Master bedroom ceiling
+  - first:
+      33: 3300126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      33: 3300128
+    second: 8 Master bedroom walls
+  - first:
+      33: 3300130
+    second: 8 Old wardrobe03
+  - first:
+      33: 3300132
+    second: 8 Old wardrobe04
+  - first:
+      33: 3300134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      33: 3300136
+    second: 9 Air conditioner02
+  - first:
+      33: 3300138
+    second: 9 Bedroom carpet
+  - first:
+      33: 3300140
+    second: 9 Bedroom ceiling
+  - first:
+      33: 3300142
+    second: 9 Bedroom floor
+  - first:
+      33: 3300144
+    second: 9 Bedroom wall
+  - first:
+      33: 3300146
+    second: 9 Bedroom Wall lamp
+  - first:
+      33: 3300148
+    second: 9 Bedroom windows door
+  - first:
+      33: 3300150
+    second: 9 Old wardrobe01
+  - first:
+      33: 3300152
+    second: 9 Old wardrobe02
+  - first:
+      33: 3300154
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      43: 4300000
+    second: 1 Outerior walls
+  - first:
+      43: 4300002
+    second: 1 Balcony floor
+  - first:
+      43: 4300004
+    second: 2 Restaurant ceiling
+  - first:
+      43: 4300006
+    second: 2 Restaurant floor
+  - first:
+      43: 4300008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      43: 4300010
+    second: 2 Restaurant walls
+  - first:
+      43: 4300012
+    second: 3 Cupboard
+  - first:
+      43: 4300014
+    second: 3 Kitchen ceiling
+  - first:
+      43: 4300016
+    second: 3 Kitchen floor
+  - first:
+      43: 4300018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      43: 4300020
+    second: 3 Kitchen window
+  - first:
+      43: 4300022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      43: 4300024
+    second: 4 Air conditioner
+  - first:
+      43: 4300026
+    second: 4 Bedroom washbasin
+  - first:
+      43: 4300028
+    second: 4 Door
+  - first:
+      43: 4300030
+    second: 4 Living room carpet
+  - first:
+      43: 4300032
+    second: 4 Living room ceiling
+  - first:
+      43: 4300034
+    second: 4 Living room wall
+  - first:
+      43: 4300036
+    second: 4 Living room Wall lamp01
+  - first:
+      43: 4300038
+    second: 4 Living room Wall lamp02
+  - first:
+      43: 4300040
+    second: 4 Living room Wall lamp03
+  - first:
+      43: 4300042
+    second: 4 The living room floor
+  - first:
+      43: 4300044
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      43: 4300046
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      43: 4300048
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      43: 4300050
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      43: 4300052
+    second: 4 Video pedestal
+  - first:
+      43: 4300054
+    second: 4 Windows01
+  - first:
+      43: 4300056
+    second: 4 Windows02
+  - first:
+      43: 4300058
+    second: 5  Mirror
+  - first:
+      43: 4300060
+    second: 5 Bathroom Lights
+  - first:
+      43: 4300062
+    second: 5 Hall bathroom ceiling
+  - first:
+      43: 4300064
+    second: 5 Hall bathroom floor
+  - first:
+      43: 4300066
+    second: 5 Hall toilet wall
+  - first:
+      43: 4300068
+    second: 5 Toilet03
+  - first:
+      43: 4300070
+    second: 5 Towel rack03
+  - first:
+      43: 4300072
+    second: 5 Washbasin
+  - first:
+      43: 4300074
+    second: 6 Bathroom Lights02
+  - first:
+      43: 4300076
+    second: 6 Bathtub02
+  - first:
+      43: 4300078
+    second: 6 Bedroom bathroom floor
+  - first:
+      43: 4300080
+    second: 6 Bedroom mirror
+  - first:
+      43: 4300082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      43: 4300084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      43: 4300086
+    second: 6 Toilet02
+  - first:
+      43: 4300088
+    second: 6 Towel rack02
+  - first:
+      43: 4300090
+    second: 6 Towel rack02
+  - first:
+      43: 4300092
+    second: 7 Bathroom Lights03
+  - first:
+      43: 4300094
+    second: 7 Bathroom windows
+  - first:
+      43: 4300096
+    second: 7 Bathtub
+  - first:
+      43: 4300098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      43: 4300100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      43: 4300102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      43: 4300104
+    second: 7 Master bedroom mirror
+  - first:
+      43: 4300106
+    second: 7 Master bedroom sink
+  - first:
+      43: 4300108
+    second: 7 Toilet
+  - first:
+      43: 4300110
+    second: 7 Towel rack
+  - first:
+      43: 4300112
+    second: 7 Towel rack
+  - first:
+      43: 4300114
+    second: 8 Air conditioner03
+  - first:
+      43: 4300116
+    second: 8 Bedroom windows
+  - first:
+      43: 4300118
+    second: 8 Bedroom windows02
+  - first:
+      43: 4300120
+    second: 8 Floor master bedroom
+  - first:
+      43: 4300122
+    second: 8 Master bedroom carpet
+  - first:
+      43: 4300124
+    second: 8 Master bedroom ceiling
+  - first:
+      43: 4300126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      43: 4300128
+    second: 8 Master bedroom walls
+  - first:
+      43: 4300130
+    second: 8 Old wardrobe03
+  - first:
+      43: 4300132
+    second: 8 Old wardrobe04
+  - first:
+      43: 4300134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      43: 4300136
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      43: 4300138
+    second: 9 Bedroom wall
+  - first:
+      43: 4300140
+    second: 9 Bedroom floor
+  - first:
+      43: 4300142
+    second: 9 Bedroom ceiling
+  - first:
+      43: 4300144
+    second: 9 Bedroom carpet
+  - first:
+      43: 4300146
+    second: 9 Bedroom windows door
+  - first:
+      43: 4300148
+    second: 9 Bedroom Wall lamp
+  - first:
+      43: 4300150
+    second: 9 Air conditioner02
+  - first:
+      43: 4300152
+    second: 9 Old wardrobe01
+  - first:
+      43: 4300154
+    second: 9 Old wardrobe02
+  - first:
+      43: 4300156
+    second: 6 Bedroom washbasin
+  - first:
+      64: 6400000
+    second: 1 Balcony floor
+  - first:
+      64: 6400002
+    second: 1 Outerior walls
+  - first:
+      64: 6400004
+    second: 2 Restaurant ceiling
+  - first:
+      64: 6400006
+    second: 2 Restaurant floor
+  - first:
+      64: 6400008
+    second: 2 Restaurant Wall  lamp02
+  - first:
+      64: 6400010
+    second: 2 Restaurant walls
+  - first:
+      64: 6400012
+    second: 3 Cupboard
+  - first:
+      64: 6400014
+    second: 3 Kitchen ceiling
+  - first:
+      64: 6400016
+    second: 3 Kitchen floor
+  - first:
+      64: 6400018
+    second: 3 Kitchen walls(Safflower Marble)
+  - first:
+      64: 6400020
+    second: 3 Kitchen window
+  - first:
+      64: 6400022
+    second: 3 Restaurant Wall  lamp01
+  - first:
+      64: 6400024
+    second: 4 Air conditioner
+  - first:
+      64: 6400026
+    second: 4 Door
+  - first:
+      64: 6400028
+    second: 4 Living room carpet
+  - first:
+      64: 6400030
+    second: 4 Living room ceiling
+  - first:
+      64: 6400032
+    second: 4 Living room wall
+  - first:
+      64: 6400034
+    second: 4 Living room Wall lamp01
+  - first:
+      64: 6400036
+    second: 4 Living room Wall lamp02
+  - first:
+      64: 6400038
+    second: 4 Living room Wall lamp03
+  - first:
+      64: 6400040
+    second: 4 The living room floor
+  - first:
+      64: 6400042
+    second: 4 Threshold(White)-(Threshold-n)01
+  - first:
+      64: 6400044
+    second: 4 Threshold(Wood01)-(Threshold-n)01
+  - first:
+      64: 6400046
+    second: 4 Threshold(Wood01)-(Threshold-n)02
+  - first:
+      64: 6400048
+    second: 4 Threshold(Wood02)-(Threshold-n)
+  - first:
+      64: 6400050
+    second: 4 Video pedestal
+  - first:
+      64: 6400052
+    second: 4 Windows01
+  - first:
+      64: 6400054
+    second: 4 Windows02
+  - first:
+      64: 6400056
+    second: 5  Mirror
+  - first:
+      64: 6400058
+    second: 5 Bathroom Lights
+  - first:
+      64: 6400060
+    second: 5 Hall bathroom ceiling
+  - first:
+      64: 6400062
+    second: 5 Hall bathroom floor
+  - first:
+      64: 6400064
+    second: 5 Hall toilet wall
+  - first:
+      64: 6400066
+    second: 5 Toilet03
+  - first:
+      64: 6400068
+    second: 5 Towel rack03
+  - first:
+      64: 6400070
+    second: 5 Washbasin
+  - first:
+      64: 6400072
+    second: 6 Bathroom Lights02
+  - first:
+      64: 6400074
+    second: 6 Bathtub02
+  - first:
+      64: 6400076
+    second: 6 Bedroom bathroom floor
+  - first:
+      64: 6400078
+    second: 6 Bedroom mirror
+  - first:
+      64: 6400080
+    second: 6 Bedroom washbasin
+  - first:
+      64: 6400082
+    second: 6 Bedroom, bathroom ceiling
+  - first:
+      64: 6400084
+    second: 6 Bedroom, bathroom walls
+  - first:
+      64: 6400086
+    second: 6 Toilet02
+  - first:
+      64: 6400088
+    second: 6 Towel rack02
+  - first:
+      64: 6400090
+    second: 6 Towel rack02 1
+  - first:
+      64: 6400092
+    second: 7 Bathroom Lights03
+  - first:
+      64: 6400094
+    second: 7 Bathroom windows
+  - first:
+      64: 6400096
+    second: 7 Bathtub
+  - first:
+      64: 6400098
+    second: 7 Master bedroom bathroom ceiling
+  - first:
+      64: 6400100
+    second: 7 Master bedroom bathroom floor
+  - first:
+      64: 6400102
+    second: 7 Master bedroom bathroom walls
+  - first:
+      64: 6400104
+    second: 7 Master bedroom mirror
+  - first:
+      64: 6400106
+    second: 7 Master bedroom sink
+  - first:
+      64: 6400108
+    second: 7 Toilet
+  - first:
+      64: 6400110
+    second: 7 Towel rack
+  - first:
+      64: 6400112
+    second: 7 Towel rack 1
+  - first:
+      64: 6400114
+    second: 8 Air conditioner03
+  - first:
+      64: 6400116
+    second: 8 Bedroom windows
+  - first:
+      64: 6400118
+    second: 8 Bedroom windows02
+  - first:
+      64: 6400120
+    second: 8 Floor master bedroom
+  - first:
+      64: 6400122
+    second: 8 Master bedroom carpet
+  - first:
+      64: 6400124
+    second: 8 Master bedroom ceiling
+  - first:
+      64: 6400126
+    second: 8 Master bedroom Wall lamp
+  - first:
+      64: 6400128
+    second: 8 Master bedroom walls
+  - first:
+      64: 6400130
+    second: 8 Old wardrobe03
+  - first:
+      64: 6400132
+    second: 8 Old wardrobe04
+  - first:
+      64: 6400134
+    second: 8 Threshold(White)-(Threshold-n)02
+  - first:
+      64: 6400136
+    second: 9 Air conditioner02
+  - first:
+      64: 6400138
+    second: 9 Bedroom carpet
+  - first:
+      64: 6400140
+    second: 9 Bedroom ceiling
+  - first:
+      64: 6400142
+    second: 9 Bedroom floor
+  - first:
+      64: 6400144
+    second: 9 Bedroom wall
+  - first:
+      64: 6400146
+    second: 9 Bedroom Wall lamp
+  - first:
+      64: 6400148
+    second: 9 Bedroom windows door
+  - first:
+      64: 6400150
+    second: 9 Old wardrobe01
+  - first:
+      64: 6400152
+    second: 9 Old wardrobe02
+  - first:
+      64: 6400154
+    second: 9 Threshold(White)-(Threshold-n)03
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air conditioner
+    second: {fileID: 2100000, guid: 7b4aa3fe2e2477d49b799ff2144ffd66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony floor
+    second: {fileID: 2100000, guid: 14e2a17fb944033419a5f57efe798108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom Lights(Safflower Marble)
+    second: {fileID: 2100000, guid: 58ff0aa9bc395f7478f1a05042bced96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom Lights(White)
+    second: {fileID: 2100000, guid: cfca84ede2cbcbc408e569d860cbc5eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom windows(Black)
+    second: {fileID: 2100000, guid: eb061adf356bddb4e978fdbfb9548e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom windows(Silver metal)
+    second: {fileID: 2100000, guid: 2b3a3b5336a868647906e48bbddd1200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom windows_Outside the glass
+    second: {fileID: 2100000, guid: 7326ac03547a96047b78eaf40bbabdd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom windows_Within the glass
+    second: {fileID: 2100000, guid: 4aa9108605754e745815d0888fd4be8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathtub(Meatl)
+    second: {fileID: 2100000, guid: c5d00d0ff19541c4fb3ac5d56b56cb4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathtub(White)
+    second: {fileID: 2100000, guid: 6db925574403a1247b1d75b19275e454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathtub_(White)
+    second: {fileID: 2100000, guid: c2143a5c937178b44bde1e39ade8cfd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom floor
+    second: {fileID: 2100000, guid: 8bcc4759e89adb446ad2b80396942519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom wall(Wood01)
+    second: {fileID: 2100000, guid: 54634b5425d6f4d4487a2829c730f06c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom wall-1
+    second: {fileID: 2100000, guid: 0dd301cb4aa68a44fb507431fa2b29c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom washbasin(Meatl)
+    second: {fileID: 2100000, guid: b444504229d7f91489597e0e7bab47e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom washbasin(White marble)
+    second: {fileID: 2100000, guid: dd7443cf2e1c8744e8dfd541cc5fb7c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom washbasin(White)
+    second: {fileID: 2100000, guid: 366cfcb413e64144392fc36c35c468c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom washbasin(Wood01)
+    second: {fileID: 2100000, guid: 29e91811fb3442544bd3f454efb181ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom washbasin(Wood02)
+    second: {fileID: 2100000, guid: 27a2512f037ed214ab505f9cdf2517e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows door(Silver metal)
+    second: {fileID: 2100000, guid: 50d6f77c4c0650e4e923c076921aa83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows door(White)
+    second: {fileID: 2100000, guid: 15518db66a0054945b3fa84ba135a36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows door_Outside the glass
+    second: {fileID: 2100000, guid: 5717eb4b1506d694aa97d457450b2749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows door_Within the glass
+    second: {fileID: 2100000, guid: 571cef82cd2878f45ada0cd4a67a4187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows(Black)
+    second: {fileID: 2100000, guid: 09aad7a413038c249a3bc557fa10ed5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows(Silver metal)
+    second: {fileID: 2100000, guid: 824bb20ec9d710247b16455a4709f970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows(White)
+    second: {fileID: 2100000, guid: 52a3ab6199f0378488adeadbe2f1da44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows_Outside the glass
+    second: {fileID: 2100000, guid: 47d757928dcf09140b5c4fdcaaa8f52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom windows_Within the glass
+    second: {fileID: 2100000, guid: 9ca5f9dda33f25e479176be61897eff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 00399a5de0562394893d108487b53310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard(Meatl)
+    second: {fileID: 2100000, guid: 563e83eb7d0549549a9399f37dc8dfd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard(White)
+    second: {fileID: 2100000, guid: c7d4d9be6b2186144848a8d3ba9c8883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard(White)-(Cupboard-n)
+    second: {fileID: 2100000, guid: d1743dd75afeda247a40b88000e90bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard(Wood03)
+    second: {fileID: 2100000, guid: d4607164ade3692439ecc323ee3d6329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard(Wood04)-(Cupboard-n)
+    second: {fileID: 2100000, guid: d5800b86fd230a54ea6209a6edbdb570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard_(White)
+    second: {fileID: 2100000, guid: b090205490fbd6549ba4ee05a90d63c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door carpet
+    second: {fileID: 2100000, guid: e9bd1c3235e244445abd0160e9510448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door(Gold Metal)
+    second: {fileID: 2100000, guid: 910fc8dc1a6cbe949b5563ef7e710f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door(Keyhole)
+    second: {fileID: 2100000, guid: 949a3954ddea85246ac478d7010e7fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door(Wood02)
+    second: {fileID: 2100000, guid: 00357d3c14468bc4fa5617bc7b50af72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_(Wood02)-(Door01-n)
+    second: {fileID: 2100000, guid: fafeb581f50e38442aad27b4e669e1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior walls
+    second: {fileID: 2100000, guid: ad5cd7dc498b8af4b98cb205e86657ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior walls out
+    second: {fileID: 2100000, guid: aa2bf75d84512d74186590e917e08205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor master bedroom
+    second: {fileID: 2100000, guid: 23da4f5bc01f4a642a7ee1f0953c24d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hall toilet wall(White marble)
+    second: {fileID: 2100000, guid: 6e64eaa9f04aa484a9df66e14ceb4555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen floor
+    second: {fileID: 2100000, guid: 0b959d5f90a9e0648a182e579c783d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen walls up
+    second: {fileID: 2100000, guid: 24a91dee2c4a6b04e87c8dcfef8ff53f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen walls(Safflower Marble)
+    second: {fileID: 2100000, guid: f5a93d21f4b680148bfaf2395a2c90b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen window(Silver metal)
+    second: {fileID: 2100000, guid: 88ad7d0a6785e4b4abb66cb8242bdd82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen window_Outside the glass
+    second: {fileID: 2100000, guid: 8447006b5b0bb50469ce805c9e114e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen window_Within the glass
+    second: {fileID: 2100000, guid: f845f8e58a444c94c8cccb292dbddadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room wall
+    second: {fileID: 2100000, guid: 6cc8fdb2b0d21ae4d9d230404100c821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room wall down(Wood01)
+    second: {fileID: 2100000, guid: 36a9b2c38e047c941ba98a4c0051142d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom bathroom walls-1
+    second: {fileID: 2100000, guid: 2484430a8498142449ef5013742a2365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom bathroom walls-3
+    second: {fileID: 2100000, guid: 8b907485131994c459b7e553c4c9a9df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom bathroom walls2
+    second: {fileID: 2100000, guid: 15da22c429760334fb243b97cedd9369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom mirror(Camera)
+    second: {fileID: 2100000, guid: 241b8b910e966e24aae623a31530a568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom mirror01(Camera)
+    second: {fileID: 2100000, guid: 367ddbb71d10d6a4f98bdf9ca4a688c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom mirror02(Camera)
+    second: {fileID: 2100000, guid: 766e29983ab6c2d43954832ce9d28d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom sink(Meatl)
+    second: {fileID: 2100000, guid: 96ad6a78c580f4948b372b4c15f08ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom sink(White marble)
+    second: {fileID: 2100000, guid: 3f7d161f6ff9bea46821061759ce6999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom sink(White)
+    second: {fileID: 2100000, guid: 0f9e0f23e639b2d45aa936ad9a7c7a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom sink(Wood05)
+    second: {fileID: 2100000, guid: 5667da3f16b4c9c4aa2acae0a79463ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom walls
+    second: {fileID: 2100000, guid: 53a51590b3f2add449b9c7217d40dbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bedroom walls down(Wood02)
+    second: {fileID: 2100000, guid: e6652dae1f6c25845be8213bd4611f7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old wardrobe(Silver metal)
+    second: {fileID: 2100000, guid: 2524b523a2ac8d2449f449dba1885062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old wardrobe(Wood05)
+    second: {fileID: 2100000, guid: ad06dd74c4a5952438966819aec72644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old wardrobe_(Silver metal)
+    second: {fileID: 2100000, guid: e25e802d8d19cdc4e85c7bf88b02ce60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outside the glass
+    second: {fileID: 2100000, guid: a19a88a8dbd65ae43afc4ab41bb4fff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Picture frame(Wood05)
+    second: {fileID: 2100000, guid: 5c1f90ed7927bc8499a44573f464551d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Restaurant floor
+    second: {fileID: 2100000, guid: 9ae2a094e738eea438a85c78aca5b1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The living room floor
+    second: {fileID: 2100000, guid: c219eefa7d8ce34489c69edfdf671302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Threshold(White)-(Threshold-n)
+    second: {fileID: 2100000, guid: 75cf2e9d92d52dd4190c515af1d8365b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Threshold(Wood01)-(Threshold-n)
+    second: {fileID: 2100000, guid: d1d37be63310d2e42835fc7ade648db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Threshold(Wood02)-(Threshold-n)
+    second: {fileID: 2100000, guid: 32c51b63a2ef2bc43850de87ab053861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet(Meatl)
+    second: {fileID: 2100000, guid: d5df707b7eac11642892d1c6039143af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet(White)
+    second: {fileID: 2100000, guid: 213ece1155cf5a84bad24baf60c65571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Towel rack(Meatl)
+    second: {fileID: 2100000, guid: 355a62d2f2620c641a42b748eb6ecae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Towel rack(Towel rack)-(Towel rack-n)
+    second: {fileID: 2100000, guid: fb5dc8076663bfc41a78d096723d0b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Video pedestal
+    second: {fileID: 2100000, guid: b7396e53a3afbd84784e2abcdba485a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall lamp(Gold Metal)
+    second: {fileID: 2100000, guid: 1421a8e98629084498fd8f4f31498fc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall lamp(White)
+    second: {fileID: 2100000, guid: c3f266f452b0fdf48aaf8d7b3ba3425b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall lamp_(White)
+    second: {fileID: 2100000, guid: 64e71d1a5c57175499f0bbeadc84f758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washbasin(Meatl)
+    second: {fileID: 2100000, guid: 0dc67e2443c98624591783623eb984c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washbasin(Silver metal)
+    second: {fileID: 2100000, guid: 6d7ae0f584033b547a5f875b408ceb7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washbasin(White)
+    second: {fileID: 2100000, guid: 3be1529586965c74ca61410c20555f9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washbasin(Wood02)
+    second: {fileID: 2100000, guid: 03ab03a7ef0050c47b371a6dabe9a2d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washbasin-(White)
+    second: {fileID: 2100000, guid: 1ef9ee7bcf9cb9a4ba0687e0fe29ffa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows(Black marble)
+    second: {fileID: 2100000, guid: b38ff1db22389be4ba4d925827b524c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows(Black)
+    second: {fileID: 2100000, guid: e503226dd0b98944087effcecd0ac3d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows(Exterior walls)
+    second: {fileID: 2100000, guid: 064b964fb38e5aa4d929ef0f51791e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows(Silver metal)
+    second: {fileID: 2100000, guid: 5a59cb8b7d6cd04469a1401bda94a548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows(White)
+    second: {fileID: 2100000, guid: dda3a6768abbd934e877d6d9059a1a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Within the glass
+    second: {fileID: 2100000, guid: b35d83b7bec280f4e84523c6fb88d78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bathroom floor
+    second: {fileID: 2100000, guid: 219fa245b1ae86d43b3d757c4d3a97a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

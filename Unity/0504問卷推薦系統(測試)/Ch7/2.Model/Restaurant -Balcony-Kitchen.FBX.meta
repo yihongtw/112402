@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: b7dfefa6278ef284faf4338a1e1a63a3
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Restaurant chandelier
+  - first:
+      43: 4300002
+    second: Dining
+  - first:
+      43: 4300004
+    second: Dining table
+  - first:
+      43: 4300006
+    second: Dining02
+  - first:
+      43: 4300008
+    second: Dining03
+  - first:
+      43: 4300010
+    second: Dining04
+  - first:
+      43: 4300012
+    second: Dining05
+  - first:
+      43: 4300014
+    second: Dining06
+  - first:
+      43: 4300016
+    second: Dining07
+  - first:
+      43: 4300018
+    second: Dining08
+  - first:
+      43: 4300020
+    second: Tableware06
+  - first:
+      43: 4300022
+    second: Tableware07
+  - first:
+      43: 4300024
+    second: Tableware08
+  - first:
+      43: 4300026
+    second: Tableware09
+  - first:
+      43: 4300028
+    second: Tableware010
+  - first:
+      43: 4300030
+    second: Tableware011
+  - first:
+      43: 4300032
+    second: Tableware012
+  - first:
+      43: 4300034
+    second: Tableware013
+  - first:
+      43: 4300036
+    second: Oven
+  - first:
+      43: 4300038
+    second: Oven02
+  - first:
+      43: 4300040
+    second: Knife combination
+  - first:
+      43: 4300042
+    second: Kitchen chandelier
+  - first:
+      43: 4300044
+    second: Tableware02
+  - first:
+      43: 4300046
+    second: Tableware04
+  - first:
+      43: 4300048
+    second: Beep pot02
+  - first:
+      43: 4300050
+    second: Tableware
+  - first:
+      43: 4300052
+    second: Refrigerator
+  - first:
+      43: 4300054
+    second: Saucepan
+  - first:
+      43: 4300056
+    second: Bar Stool02
+  - first:
+      43: 4300058
+    second: Saucepan03
+  - first:
+      43: 4300060
+    second: Bar Stool004
+  - first:
+      43: 4300062
+    second: Bar Stool
+  - first:
+      43: 4300064
+    second: Tableware05
+  - first:
+      43: 4300066
+    second: Saucepan04
+  - first:
+      43: 4300068
+    second: Beep pot
+  - first:
+      43: 4300070
+    second: Kitchen shelf
+  - first:
+      43: 4300072
+    second: Saucepan02
+  - first:
+      43: 4300074
+    second: Bar Stool04
+  - first:
+      43: 4300076
+    second: Leisure chair02
+  - first:
+      43: 4300078
+    second: Leisure chair
+  - first:
+      43: 4300080
+    second: Oven01
+  - first:
+      43: 4300082
+    second: Bar Stool03
+  - first:
+      43: 4300084
+    second: Bar Stool01
+  - first:
+      43: 4300086
+    second: Beep pot01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bar Stool(Leather)
+    second: {fileID: 2100000, guid: d8d812a89859812458d1b3d3d4ec8dcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bar Stool(Meatl)
+    second: {fileID: 2100000, guid: 6e517f0c75ee9084bb23f8db7f4fb29f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beep pot(Black)
+    second: {fileID: 2100000, guid: 020076e6c64a83441bc5c1ca22573b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beep pot(Meatl)
+    second: {fileID: 2100000, guid: b800a3b507bf79d4e810c0bec93a2613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier(Meatl)
+    second: {fileID: 2100000, guid: 5cd8f1f35b1affe43a16056ebd1295e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier(White)
+    second: {fileID: 2100000, guid: 87504afc0f9ff9740899c812a12560be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chandelier_(White)
+    second: {fileID: 2100000, guid: 5904ade50f319044e9d4df25fb4d74f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining table(Glass)
+    second: {fileID: 2100000, guid: 2a955acc08fc57241a147c38ca52331b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining table(White marble)
+    second: {fileID: 2100000, guid: 6b3beb4f32fe99c48bc68061af708087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining table(Wood04)
+    second: {fileID: 2100000, guid: 829eb3d2c7488a342928f5d5cd08b092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining(Fabric08)
+    second: {fileID: 2100000, guid: 74b5c3383c3129f41a8f2b45146030d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining(Wood04)
+    second: {fileID: 2100000, guid: 1029192ce6de45e49910ce6e66823bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen shelf(Meatl)
+    second: {fileID: 2100000, guid: e54ecd3e44f750f4cab8a5f353867ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination(Black)
+    second: {fileID: 2100000, guid: 5d055ca2c7071554694705be079ab1c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination(Knife combination)
+    second: {fileID: 2100000, guid: 080f65ffaf3b53442967ca0ced23051c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination(White)
+    second: {fileID: 2100000, guid: 21056c6f90ab73a4aa85acc620848941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination(Wood09)
+    second: {fileID: 2100000, guid: ab9485a32a89fb6439688be02baa1b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination_(Black)
+    second: {fileID: 2100000, guid: 3c65700cd0027404aac0e4e0f7d64a94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination_(White)
+    second: {fileID: 2100000, guid: f473566677e61c5438cc66eec96b42b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife combination__(Black)
+    second: {fileID: 2100000, guid: 7e2225e7e9ca10e49a94556ad6574163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leisure chair(Fabric04)
+    second: {fileID: 2100000, guid: f976880e6c046e84bb5b6d0691d40f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leisure chair(Wood05)
+    second: {fileID: 2100000, guid: 928e1402719954949a7daa935d0445a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven(Black)
+    second: {fileID: 2100000, guid: c285266da18a4e849aaef025c70529ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven(Silver metal)
+    second: {fileID: 2100000, guid: d1e700bf743474e41896148528e716ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven(White)
+    second: {fileID: 2100000, guid: 5863afa28631af04498764fd737924a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven_(Black)
+    second: {fileID: 2100000, guid: 9de629dae6bf9e842a943dca9694ae0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Refrigerator(Refrigerator)
+    second: {fileID: 2100000, guid: de2a49548bf7f5147bdf4eaa563f6938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saucepan(Black)
+    second: {fileID: 2100000, guid: 7f722d37e84626e4eb37609c45a5ab1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tableware(Meatl)
+    second: {fileID: 2100000, guid: 39b4cc1b66db1404b90c252911fa3264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tableware(White)
+    second: {fileID: 2100000, guid: 38667a127404a134da9a6675e36f414d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

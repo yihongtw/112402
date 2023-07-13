@@ -1,0 +1,73 @@
+body{
+
+    background-color: whitesmoke;
+    margin:0px;
+}
+
+h1{
+    color:black;
+    font-size:30px;
+}
+
+ul{
+    list-style-type: none; /* 取消ul點點 */
+    padding:0px;/* 取消左邊空間0px (增加空間0px)  */
+    background-color: rgb(235, 233, 233);
+    height: 125px;
+    overflow:hidden;
+   
+}
+li{
+    float:right;
+    
+    /* border-right: 1px solid black; 加右邊黑線1px */
+}
+
+li a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+    color:rgb(12, 12, 12);
+}
+
+li a:hover{
+    border-radius: 50px;
+    background-color: rgb(90, 89, 89);
+    color: yellow;
+}
+.home{
+    width:auto;
+    border: 5px double;
+    padding:280px ;
+    margin:50px;
+    
+}
+.li6{
+    position: relative;
+    left:600px;
+}
+.li5{
+    position: relative;
+    right:500px;
+}
+.li4{
+    position: relative;
+    right: 500px;
+}
+
+.li3{
+    position: relative;
+    right: 500px;
+}
+
+.li2{
+    position: relative;
+    right: 500px;
+}
+.li1{
+    position: relative;
+    right:500px ;
+}

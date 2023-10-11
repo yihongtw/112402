@@ -1,5 +1,9 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="112402組員">
@@ -9,10 +13,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>虛擬世界的書架</title>
     <!-- 連結CSS外部檔案 -->
-    <link rel="stylesheet" href="Newstyle.css">
-    <script type="text/javascript" src="logout.js"></script>
+    <link rel="stylesheet" href="firststyle.css">
 </head>
+
 <body>
+
     <nav>
         <ul class="drop-down-menu">
             <li>
@@ -30,10 +35,10 @@
             <li style="float: right; font-family: Andale Mono, monospace;">
                 <?php
                 if (isset($_SESSION['username'])) {
-                    echo '<div class="dropdown2" onmouseover="showDropdown()" onmouseout="hideDropdown()" id="usernameDropdown">';
-                    echo '<a href="#" id="usernameLink">' . $_SESSION['username'] . '</a>';
-                    echo '<ul class="dropdown-content2" id="dropdownContent">';
-                    echo '<li class="ggli4"><a href="logout.php">Log Out</a></li>';
+                    echo '<div class="dropdown2">';
+                    echo '<a href="index.php">' . $_SESSION['username'] . '</a>';
+                    echo '<ul class="dropdown-content2">';
+                    echo '<li><a href="logout.php">Log Out</a></li>';
                     // 可以加入其他下拉選單項目
                     echo '</ul>';
                     echo '</div>';
@@ -42,7 +47,6 @@
                 }
                 ?>
             </li>
-
             <li><a href="#">書籍類別</a>
                 <ul class="ggli">
                     <li class="ggli1">
@@ -55,14 +59,17 @@
                         <a href="新虛擬貨幣.php">虛擬貨幣書籍</a>
                     </li>
                 </ul>
-
+                
             </li>
         </ul>
     </nav>
-    <hr>
-    <hr>
-    <nav class="home" >
-        <iframe width="1500px" height="500px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=U41DSBo5g0CZfmPnBTOK_YfGmSO2VZZJvBZkxX3XhAxUMEM0UkxBRFBEOUswMFFaV1Y5SkdCMVpSNi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+    <section class="home">
+ 
+    </section>
+    <footer>
+        <p>Copyright © 2023 NTUB IMD 112402. All rights reserved.</p>
+    </footer>
 </body>
+
 </html>

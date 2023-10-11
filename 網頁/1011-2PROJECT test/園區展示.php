@@ -1,5 +1,9 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="112402組員">
@@ -7,13 +11,14 @@
     <meta name="keywords" content="虛擬世界的書架">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>虛擬世界的書架</title>
+    <title>園區展示</title>
     <!-- 連結CSS外部檔案 -->
     <link rel="stylesheet" href="Newstyle.css">
     <script type="text/javascript" src="logout.js"></script>
 </head>
+
 <body>
-    <nav>
+<nav>
         <ul class="drop-down-menu">
             <li>
                 <a href="首頁.php">　首頁　</a>
@@ -25,7 +30,7 @@
                 <a href="園區展示.php">展館園區</a>
             </li>
             <li>
-                <a href="">問卷調查</a>
+                <a href="回饋問卷.php">問卷調查</a>
             </li>
             <li style="float: right; font-family: Andale Mono, monospace;">
                 <?php
@@ -42,7 +47,6 @@
                 }
                 ?>
             </li>
-
             <li><a href="#">書籍類別</a>
                 <ul class="ggli">
                     <li class="ggli1">
@@ -55,14 +59,17 @@
                         <a href="新虛擬貨幣.php">虛擬貨幣書籍</a>
                     </li>
                 </ul>
-
+                
             </li>
         </ul>
     </nav>
-    <hr>
-    <hr>
-    <nav class="home" >
-        <iframe width="1500px" height="500px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=U41DSBo5g0CZfmPnBTOK_YfGmSO2VZZJvBZkxX3XhAxUMEM0UkxBRFBEOUswMFFaV1Y5SkdCMVpSNi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
+    <hr class="hr1">
+    <div style="width:1000px; height:300px; background-color:blueviolet">
+        <p>園區展示</p>
+    </div>
+    <footer>
+        <p>Copyright © 2023 NTUB IMD 112402. All rights reserved.</p>
+    </footer>
 </body>
+
 </html>

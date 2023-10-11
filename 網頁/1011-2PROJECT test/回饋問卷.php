@@ -1,3 +1,8 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html>
+<html lang="en">
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +30,7 @@
                 <a href="園區展示.php">展館園區</a>
             </li>
             <li>
-                <a href="">問卷調查</a>
+                <a href="回饋問卷.php">問卷調查</a>
             </li>
             <li style="float: right; font-family: Andale Mono, monospace;">
                 <?php
@@ -60,9 +65,12 @@
         </ul>
     </nav>
     <hr>
-    <hr>
-    <nav class="home" >
-        <iframe width="1500px" height="500px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=U41DSBo5g0CZfmPnBTOK_YfGmSO2VZZJvBZkxX3XhAxUMEM0UkxBRFBEOUswMFFaV1Y5SkdCMVpSNi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
+   
+    <nav>
+        <iframe  width="1500px" height="500px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=U41DSBo5g0CZfmPnBTOK_YfGmSO2VZZJvBZkxX3XhAxUMEM0UkxBRFBEOUswMFFaV1Y5SkdCMVpSNi4u&embed=true" frameborder="" marginwidth="0" marginheight="0" style="border:3px solid rgb(128, 128, 130); max-width:100%; max-height:100vh;border-radius: 5px;" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+    </nav>
+    <footer>
+        <p>Copyright © 2023 NTUB IMD 112402. All rights reserved.</p>
+    </footer>
 </body>
 </html>

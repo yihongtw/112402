@@ -1,0 +1,359 @@
+*{
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+}
+
+body{
+    background-color: whitesmoke;
+    margin:0px;
+}
+
+ul{
+    list-style-type: none; /* 取消ul點點 */
+    padding:0px;/* 取消左邊空間0px (增加空間0px)  */
+    margin:0;
+    background-color: rgb(235, 233, 233);
+    height: 130px;
+    /* overflow:hidden; */
+}
+
+li{
+    display: inline-block;
+    padding:40px 10px;/*前面數字式調整導覽列置中距離 後面是各導覽列之間的距離*/
+    margin:5px 0px;     
+}
+
+.ggli1{ /*下拉式選單1*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+.ggli2{/*下拉式選單2*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+.ggli3{/*下拉式選單3*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+
+----------------------------------
+/*登出的下拉式選單*/
+
+.ggli4{/*LOGOUT*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+.dropdown2 a {
+    display: inline-block;
+    width: 100px; /* 調整這裡的寬度為您希望的大小 */
+    text-align: center;
+    line-height: 50px; /* 調整垂直居中 */
+    font-weight: bold;
+   
+}
+nav{
+    text-align: center;
+}
+
+/* nav ul li a{
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;   
+} */
+nav ul li a{
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid  rgb(128, 128, 130);
+    border-radius: 20px;
+    color:  rgb(128, 128, 130);
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;   
+}
+hr{
+    border: 2px solid rgb(128, 128, 130);
+}
+li a:hover{
+    color: rgba(2, 102, 119, 0.397);
+}
+
+
+.logop {
+    position: absolute;
+    left: 310px;
+    top: 0px;
+    width: 250px;
+    height: 125px;
+    /* border-radius: 50px; */
+   
+}
+ul.drop-down-menu li {
+    position: relative;
+    white-space: nowrap;
+}
+
+ul.drop-down-menu > li:last-child {
+    border-right: none;
+}
+
+ul.drop-down-menu a {
+    display: block;
+    padding: 0 30px;
+    text-decoration: none;
+    line-height: 40px; /*導覽列高度大小按鈕*/
+
+}
+ul.drop-down-menu ul {
+    border: #ffffff 1px solid;/*階層式第一層*/
+    position: absolute;
+    z-index: 99;
+    left: -1px;
+    top:100px; /*書籍類別與子階層距離*/
+    min-width: 180px;
+    border: none;
+}
+
+
+ul.drop-down-menu ul li:last-child {
+    border-bottom: none;
+}
+ul.drop-down-menu ul ul { /*第三層以後的選單出現位置與第二層不同*/
+    z-index: 999;
+    top: 0px;
+    left: 0%;
+    
+}
+ul.drop-down-menu li:hover > ul {
+    display: block; /* 滑鼠滑入展開次選單 */
+}
+ul.drop-down-menu ul { /*隱藏次選單*/
+    display: none;
+}
+   
+  
+.book-image-container {
+    position: absolute;
+    top:250px;
+    left: 250px;
+    width: 250px; 
+    height:300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* 5px偏移水平和垂直方向，10px模糊，颜色和不透明度 */
+}
+.introduction-container{
+    position: absolute;
+    top:250px;
+    left: 600px;
+    width: 900px; 
+    height:500px;
+}
+
+.aboutbg{
+    margin-top: 10px;
+    width:auto; 
+    height:250px;
+    /* background-image:url(images/0926.jpg); */
+    /* background-color: white; */
+    /* animation-name: example1;
+    animation-duration: 8s;
+    animation-iteration-count:infinite */
+}
+/* @keyframes example1 {
+    from {
+        background-color:	#f5f5dc;
+    }
+    to {
+        background-color:	#d3d3d3;
+    }
+} */
+.about{
+    width:1000px;
+     height:200px; 
+     position:absolute;
+     left:250px;
+     top:260px;
+     border-radius:5px;
+     text-align:center;
+     line-height:30px;
+     backdrop-filter:blur(8px);
+     /* box-shadow: 5px 5px 8px 0 #000; */
+     padding: 15px;
+   margin: 5px;
+}
+/* .home{
+    width:auto;
+    height: 163px;
+    border: 5px;
+    padding:195px;
+    margin:0;
+    background-image:url(images/首頁背景.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+.home{
+    width:auto; 
+    height:163px;
+    border: 5px;
+    padding:195px;
+    margin:0;
+    background-image:url(images/0926.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    animation-name: rotateImages;
+    animation-duration: 15s; /* 每张图片显示 3 秒 */
+    animation-iteration-count: infinite;
+}
+@keyframes rotateImages {
+    0%, 100% {
+        background-image: url(images/園區首頁圖5.png);
+    }
+    25% {
+        background-image: url(images/園區首頁圖2.png);
+    }
+    50% {
+        background-image: url(images/園區首頁圖3.png);
+    }
+    75% {
+        background-image: url(images/園區首頁圖4.png);
+    }
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5%;
+    
+  }
+/* .video1{
+    position: absolute;
+    top:330px;
+    right:0px; 
+} */
+.h3section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    width: auto;
+    height: 100px;
+    border-radius:5px;
+    /* box-shadow: 5px 5px 8px 0 #000; */
+   /* background-image:url(images/發展動機.jpg); */
+   background-color: aliceblue;
+animation-name: example1;
+animation-duration: 8s;
+animation-iteration-count:infinite;
+}
+
+@keyframes example1 {
+from {
+    background-color:	#f5f5dc;
+}
+to {
+    background-color:	#d3d3d3;
+}
+}
+h3{
+    margin: 0;
+    font-size: 30px;
+    color:  rgb(79, 79, 80);
+    text-align: center;
+}
+.h4section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    width: auto;
+    height: 100px;
+    border-radius:5px;
+    /* box-shadow: 5px 5px 8px 0 #000; */
+    background-color: aliceblue;
+    animation-name: example3;
+    animation-duration: 8s;
+    animation-iteration-count:infinite;
+    }
+    
+    @keyframes example3 {
+    from {
+        background-color:	#f5f5dc;
+    }
+    to {
+        background-color:	#d3d3d3;
+    }
+    }
+h4{
+    margin: 0;
+    font-size: 30px;
+    color:  rgb(79, 79, 80);
+    text-align: center;
+}
+.aboutbg2{
+    margin-top: 10px;
+    width:auto; 
+    height:250px;
+    /* background-image:url(images/0926.jpg); */
+   
+   
+}
+
+.video-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+video{
+    -webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7));
+    filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7))
+}
+
+.bookshow{
+    width:auto; 
+    height:550px;
+     background-color:rgba(158, 158, 158, 0.315);;
+     border-radius:45px;
+     margin: 20px;
+     background-color: aliceblue;
+     animation-name: example2;
+     animation-duration: 8s;
+     animation-iteration-count:infinite
+ }
+ @keyframes example2 {
+     from {
+         background-color:	#f5f5dc;
+     }
+     to {
+         background-color:	#d3d3d3;
+     }
+ }
+
+
+.logo{
+    
+    position: absolute;
+    top:0px;
+    left: -80px;
+}

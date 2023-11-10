@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Collection</title>
+</head>
+<body>
+
+<h1>Your Book Collection</h1>
+
+<button onclick="collectBook()">Collect Book</button>
+
+<script>
+    function collectBook() {
+        // 使用 AJAX 發送資料給 PHP 處理
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    alert(xhr.responseText);
+                } else {
+                    alert('Failed to collect book.');
+                }
+            }
+        };
+        xhr.open("GET", "collect_book.php", true);
+        xhr.send();
+    }
+</script>
+
+</body>
+</html>

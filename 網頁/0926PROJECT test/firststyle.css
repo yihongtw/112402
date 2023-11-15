@@ -1,0 +1,146 @@
+*{
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+}
+body{
+
+    background-color: whitesmoke;
+    margin:0px;
+}
+
+h1{
+    color:black;
+    font-size:30px;
+}
+
+ul{
+    list-style-type: none; /* 取消ul點點 */
+    padding:0px;/* 取消左邊空間0px (增加空間0px)  */
+    margin:0;
+    background-color: rgb(235, 233, 233);
+    height: 125px;
+    overflow:hidden;
+}
+
+
+li{
+    
+    display: inline-block;
+    /* border-right: 1px solid black; 加右邊黑線1px */
+}
+nav{
+    text-align: center;
+}
+li a{
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+    color:rgb(12, 12, 12);
+    font-weight:bold;
+}
+
+li a:hover{
+    color: rgba(2, 102, 119, 0.397);
+}
+.home{
+    width:auto;
+    height: 163px;
+    border: 5px;
+    padding:200px;
+    margin:0;
+    background-image:url(images/首頁背景.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+hr{
+    border: black 1px solid;
+}
+.logop {
+    position: absolute;
+    left: 310px;
+    top: 0px;
+    width: 250px;
+    height: 125px;
+    /* border-radius: 50px; */
+   
+}
+
+-----------------------------------
+/*下拉式選單*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: absolute;
+    top: 44px;
+    left:920px; 
+    font-size: 20px;
+    font-weight:bold;
+    display: inline-block;
+    text-align: left; 
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 9999;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    color: rgb(2, 119, 2);
+}
+
+.dropdown2 {
+position: absolute;
+top: 0px;
+right: 0px;
+font-size: 20px;
+font-weight:bold;
+display: inline-block;
+text-align: center; 
+}
+.dropdown-content2 {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+right: 0; /* 從 Fullname 的右側對齊 */
+top: 63%; /* 下拉選單在 Fullname 下方 */
+min-width: 100px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 9999;
+max-height: 80px; /* 設定下拉選單的最大高度 */ 
+text-align: center;
+line-height:80px;
+}
+
+
+/* 將滑鼠移到上面時顯示下拉選單 */
+.dropdown2:hover .dropdown-content2 {
+display: block;
+}

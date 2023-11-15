@@ -1,0 +1,211 @@
+*{
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+}
+body{
+    background-color: whitesmoke;
+    margin:0px;
+}
+
+ul{
+    list-style-type: none; /* 取消ul點點 */
+    padding:0px;/* 取消左邊空間0px (增加空間0px)  */
+    margin:0;
+    background-color: rgb(235, 233, 233);
+    height: 125px;
+}
+li{
+    display: inline-block;
+    padding:40px 10px;/*前面數字式調整導覽列置中距離 後面是各導覽列之間的距離*/
+    margin:5px 0px;  
+}
+.ggli1{ /*下拉式選單1*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+.ggli2{/*下拉式選單2*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+.ggli3{/*下拉式選單3*/
+    display: block;
+    padding:0px;
+    margin:0px;  
+}
+
+nav{
+    text-align: center;
+}
+
+nav ul li a{
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    font-weight:bold;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+li a:hover{
+    color: rgba(2, 102, 119, 0.397);
+}
+.home{
+    width:auto;
+    height: 163px;
+    border: 5px;
+    padding:200px;
+    margin:0;
+    background-image:url(images/首頁背景.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logop {
+    position: absolute;
+    left: 310px;
+    top: 0px;
+    width: 250px;
+    height: 125px;
+    /* border-radius: 50px; */
+   
+}
+ul.drop-down-menu li {
+    position: relative;
+    white-space: nowrap;
+}
+
+ul.drop-down-menu > li:last-child {
+    border-right: none;
+}
+
+ul.drop-down-menu a {
+    display: block;
+    padding: 0 30px;
+    text-decoration: none;
+    line-height: 40px; /*導覽列高度大小按鈕*/
+
+}
+ul.drop-down-menu ul {
+    border: #ffffff 1px solid;/*階層式第一層*/
+    position: absolute;
+    z-index: 99;
+    left: -1px;
+    top: 100%;
+    min-width: 180px;
+}
+
+
+ul.drop-down-menu ul li:last-child {
+    border-bottom: none;
+}
+ul.drop-down-menu ul ul { /*第三層以後的選單出現位置與第二層不同*/
+    z-index: 999;
+    top: 0px;
+    left: 0%;
+    
+}
+ul.drop-down-menu li:hover > ul {
+    display: block; /* 滑鼠滑入展開次選單 */
+}
+ul.drop-down-menu ul { /*隱藏次選單*/
+    display: none;
+}
+
+
+-----------------------------------------
+/*div下拉式選單*/
+
+
+.dropbtn {
+
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: absolute;
+    top: 46px;
+    left:1020px; 
+    font-size: 20px;
+    font-weight:bold;
+    display: inline-block;
+    text-align: left; 
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 9999;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    font-weight:bold;
+    background-color: transparent;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+.dropdown2 {
+position: absolute;
+top: 0px;
+right: 0px;
+font-size: 20px;
+font-weight:bold;
+display: inline-block;
+text-align: center; 
+}
+.dropdown-content2 {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+right: 0; /* 從 Fullname 的右側對齊 */
+top: 63%; /* 下拉選單在 Fullname 下方 */
+min-width: 100px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 9999;
+max-height: 80px; /* 設定下拉選單的最大高度 */ 
+text-align: center;
+line-height:80px;
+}
+
+
+/* 將滑鼠移到上面時顯示下拉選單 */
+.dropdown2:hover .dropdown-content2 {
+display: block;
+}

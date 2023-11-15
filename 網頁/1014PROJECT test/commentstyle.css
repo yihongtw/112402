@@ -1,0 +1,189 @@
+@charset "utf-8";
+body{
+	background-color: #ffffff;
+}
+#mainRegion {
+	height:520px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	background-color: white;
+	border: ridge black ;
+	border-width: 4px;
+	/* background-image: url(images/留言板BGI.jpg);
+	background-repeat: no-repeat;
+	background-size:500px 700px ; */
+}
+#mainRegion p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#mainRegion form {
+	margin: 0px;
+}
+
+#mainRegion .postname {
+	font-size: 9pt;
+	font-weight: bold;
+	color: #0066CC;
+	
+}
+
+.heading {
+	font-family: "微軟正黑體";
+	font-size: 15pt;
+	color: #010101;
+	line-height: 200%;
+	font-weight: bolder;
+}
+
+#mainRegion .smalltext {
+	font-size: 11px;
+	color: #999999;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	vertical-align: middle;
+}
+#mainRegion .actiondiv {
+	float: right;
+	/* [disabled]margin-top: -24px; */
+	font-size: 11pt;
+	font-family: "微軟正黑體";
+}
+#mainRegion .actiondiv a:hover {
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+
+#mainRegion a {
+	text-decoration: none;
+}
+#mainRegion a:link {
+	color: #0066CC;
+}
+#mainRegion a:visited {
+	color: #0066CC;
+}
+#mainRegion a:hover {
+	color: #FF0000;
+}
+.itemheading {
+	font-family: "微軟正黑體";
+	font-size: 11pt;
+	color: #CC0000;
+	font-weight: bolder;
+}
+.trademark {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #0099FF;
+	position:absolute;
+	top: 420px;
+	right: 300px;
+}
+.underline {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+
+}
+
+.comment{
+	position: absolute;
+	top:175px;
+	right: 380px;
+	height:200px;
+	width: 500px;
+	
+}
+.btn1{
+	position: absolute;
+	top:400px;
+	left: 400px;
+}
+.btn2{
+	position: absolute;
+	top:400px;
+	left: 480px;
+}
+.btn3{
+	position: absolute;
+	top:400px;
+	left:560px;
+}
+.bds{
+	position:absolute;
+	top: 220px;
+	left: 500px;
+}
+.bdn{
+	position:absolute;
+	top: 260px;
+	left: 500px;
+}
+.boygirl{
+	position:absolute;
+	top: 350px;
+	left: 450px;
+}
+.book{
+	position:absolute;
+	top:160px;
+	left: 400px;
+}
+.bd7{
+	position:absolute;
+	top: 120px;
+	right: 290px;
+}
+.bd5{
+	position:absolute;
+	top: 120px;
+	right: 420px;
+}
+.home{
+	width:auto;
+	/* border: 5px double;
+	border-radius:20px; */
+	padding:280px;
+	margin:50px 150px 50px 150px;
+	background-image:url(images/留言板BGI.jpg);
+	background-repeat: no-repeat;
+	background-size: 1200px 500px;
+	/* background-color:rgba(128, 128, 128, 0.085); */
+	
+}
+.bdtop{
+	position: absolute;
+	top: 8px;
+	right: 416px;	
+	height: 500px;
+	width: 725px;
+	background-image: url(images/留言板topjpg.jpg);
+	background-repeat: no-repeat;
+	background-size: 727px;
+}
+.btnArea {
+	position: absolute;
+	top: 555px; /* 調整 top 的值 */
+	right: 400px; /* 調整 right 的值 */
+	z-index: 2; /* 調整 z-index 的值，確保比.bdtop高 */
+  }
+
+.bddown{
+	height: 120px;
+	width: 725px;
+	background-image: url(images/留言板down.jpg);
+	background-repeat: no-repeat;
+	background-size: 730px;
+	position: absolute;
+	bottom:0px;
+	right: 415px;	
+}
+.bdgohome {
+	position: absolute;
+	top: 22px;
+	right: 420px;
+}

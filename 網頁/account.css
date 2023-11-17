@@ -1,0 +1,112 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.list {
+    background-color: #fff;
+    list-style-type: none;
+    flex: 0 0 30%; /* 30% width */
+    margin-right: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.list ul {
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list li {
+    display: block;
+    padding: 8px 0; /* Add some padding for better spacing */
+}
+
+.list a {
+    display: block;
+    padding: 8px;
+    color: #333;
+    transition: background-color 0.3s;
+}
+
+.list a:hover {
+    background-color: #f0f0f0; /* Highlight on hover */
+}
+
+.myinfo {
+    background-color: #fff;
+    flex: 0 0 65%; /* 65% width */
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.myinfo dl {
+    margin: 20px 0;
+}
+
+.myinfo .wrapper {
+    margin: 5px 0 5px 0;
+}
+
+.myinfo dt {
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin: 8px 0;
+    padding: 8px 16px 0 0;
+    max-width: fit-content;
+    max-height: fit-content;
+    font-size: 16px;
+    font-weight: 500;
+    display: inline;
+}
+
+.myinfo dd {
+    margin-left: 0;
+    margin-bottom: 10px;
+    max-width: fit-content;
+    max-height: fit-content;
+    display: inline;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.gender {
+    display: inline;
+}
+
+.myinfo input[type="text"],
+.myinfo input[type="radio"] {
+    margin-bottom: 5px;
+}
+
+.button_save {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button_save input {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button_save input:hover {
+    background-color: #45a049;
+}

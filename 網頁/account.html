@@ -11,6 +11,7 @@
     <title>虛擬世界的書架</title>
     <!-- 連結CSS外部檔案 -->
     <link rel="stylesheet" href="Newstyle.css">
+    <link rel="stylesheet" href="account.css">
     <script type="text/javascript" src="logout.js"></script>
 </head>
 
@@ -68,33 +69,40 @@
         <div class="container">
             <div class="list">
                 <ul>
-                    <li><a href="">個人資料</a></li>
-                    <li><a href="">收藏書籍</a></li>
-                    <li><a href="">修改密碼</a></li>
+                    <li><a href="#">個人資料</a></li>
+                    <li><a href="#">收藏書籍</a></li>
+                    <li><a href="#">修改密碼</a></li>
                 </ul>
             </div>
-            <div >
+            <div class="myinfo">
                 <dl>
                     <dd>
                         <div class="headline">我的帳號</div>
                     </dd>
-                    <dt class="title">帳號</dt>
-                    <dd class="row"><input type="text" name="account" autocomplete="on" /></dd>
-                    <dt class="title">名稱</dt>
-                    <dd class="row"><input type="text" name="nickname" autocomplete="on" /></dd>
-                    <dt class="title">性別</dt>
-                    <dd>
-                        <div class="row_gender">
-                            <input type="radio" id="male" name="gender" autocomplete="on" />
-                            <label for="male">男</label>
-                            <input type="radio" id="female" name="gender" autocomplete="on" />
-                            <label for="female">女</label>
-                            <input type="radio" id="other" name="gender" autocomplete="on" />
-                            <label for="other">其他</label>
-                        </div>
-                    </dd>
+                    <hr>
+                    <div class="wrapper">
+                        <dt class="title">帳號</dt>
+                        <dd class="row"><input type="text" name="account" value="" autocomplete="on" /></dd>
+                    </div>
+                    <br>
+                    <div class="wrapper">
+                        <dt class="title">名稱</dt>
+                        <dd class="row"><input type="text" name="nickname" value="" autocomplete="on" /></dd>
+                    </div>
+                    <br>
+                    <div class="wrapper">
+                        <dt class="title">性別</dt>
+                        <dd class="row_gender">
+                            <div class="gender">
+                                <input type="radio" id="male" name="gender" value="" autocomplete="on" />
+                                <label for="male">男</label>
+                                <input type="radio" id="female" name="gender" value="" autocomplete="on" />
+                                <label for="female">女</label>
+                            </div>
+                        </dd>
+                    </div>
                 </dl>
-                <div class="button_save"><input type="submit" value="儲存" /></div>
+                <div class="button_save" onclick="" ><input type="submit" value="儲存" /></div>
             </div>
         </div>
     </section>

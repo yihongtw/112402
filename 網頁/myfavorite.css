@@ -1,0 +1,103 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.list {
+    background-color: #fff;
+    list-style-type: none;
+    flex: 0 0 20%; /* 30% width */
+    margin-right: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.list ul {
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list li {
+    display: block;
+    padding: 8px 0; /* Add some padding for better spacing */
+}
+
+.list a {
+    display: block;
+    padding: 8px;
+    color: #333;
+    transition: background-color 0.3s;
+}
+
+.list a:hover {
+    background-color: #f0f0f0; /* Highlight on hover */
+}
+
+
+
+.favobook {
+    background-color: #fff;
+    flex: 1; /* 使用剩餘的空間，使其高度與.list相同 */
+    box-sizing: border-box;
+    border-radius: 20px;
+    overflow-y: auto; /* 如果內容太多，顯示滾動條 */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 每行橫排五個格子 */
+    gap: 10px; /* 格子之間的間距 */
+    padding: 5px; /* 格子內的內邊距 */
+}
+
+@media screen and (max-width: 1200px) {
+    .grid-container {
+        grid-template-columns: repeat(4, 1fr); /* 在螢幕寬度小於1200px時，每行橫排四個格子 */
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr); /* 在螢幕寬度小於900px時，每行橫排三個格子 */
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr); /* 在螢幕寬度小於600px時，每行橫排兩個格子 */
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* 在螢幕寬度小於400px時，每行橫排一個格子 */
+    }
+}
+
+.grid-item {
+    text-align: center;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: none; /* 限制每個 .grid-item 的寬度不超過 20% */
+    box-sizing: border-box; /* 避免邊框和填充增加寬度 */
+
+}
+
+.grid-item img {
+    width: 100%; /* 讓圖片填滿父元素的寬度 */
+    height: auto;
+    border-radius: 5px;
+}
+
+.grid-item p {
+    margin: 5px 0;
+    display: inline-block; /* 或者使用 display: inline; */
+    white-space: nowrap;
+}
+
+
